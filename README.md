@@ -4,7 +4,7 @@ A calculadora foi desenvolvida usando o Apache NetBeans IDE 16, na linguagem jav
 
 ## Classes de contas
 Classes das principais contas: Soma, Subtração, Multiplicação e Divisão
-
+##
 ![image](https://github.com/yVinii/AnaliseCalculadora/assets/117307556/1d310cfb-447b-4dd5-9dee-8d088f1bb7c4)
 
 ## Cenários
