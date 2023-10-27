@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/Pichau/Documents/NetBeansProjects/CalculadoraJunitTest/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Pichau/Documents/NetBeansProjects/CalculadoraJunitTest/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CalculadoraJunitTest 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CalculadoraJunitTest 1.0-SNAPSHOT API'
+Classes
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\src\main\java = 1695441185825
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\allclasses-index.html = 1698413043889
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\allpackages-index.html = 1698413043892
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\copy.svg = 1698413043927
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\element-list = 1698413043850
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\help-doc.html = 1698413043919
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\index-all.html = 1698413043908
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\index.html = 1698413043913
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\jquery-ui.overrides.css = 1698413043944
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\member-search-index.js = 1698413043898
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\module-search-index.js = 1698413043894
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\overview-tree.html = 1698413043877
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\package-search-index.js = 1698413043895
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\script.js = 1698413043926
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\search-page.js = 1698413043933
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\search.html = 1698413043911
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\search.js = 1698413043930
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\stylesheet.css = 1698413043923
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\tag-search-index.js = 1698413043899
+C:\Users\Pichau\Documents\NetBeansProjects\CalculadoraJunitTest\target\site\apidocs\type-search-index.js = 1698413043897
